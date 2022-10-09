@@ -1,0 +1,3 @@
+Python 2.7.x version 
+numpy 
+Opencv 2.7.x version
