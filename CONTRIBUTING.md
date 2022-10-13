@@ -64,7 +64,6 @@ You can also help by tackling [issues]. To learn more, read [Your first code con
 > **If you want to report a security vulnerability, do not open an issue for it!**
 
 >
-> Also, check out [The security guidelines](./SECURITY.md)
 
 This section guides you through submitting a bug report for the site.
 Following these guidelines helps maintainers and the community understand your issue,
